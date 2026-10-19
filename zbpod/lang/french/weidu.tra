@@ -312,7 +312,7 @@ Nécessite :
 Poids : 8~
 
 @10090 = ~Gants souples de Nephetel~
-@10091 = ~Nephetel reçut ces gants lors de son admission dans la guilde des voleurs. Bien qu'ils aient été dépourvus de magie à l'origine, semble-t-il, ses exploits leur ont peu à peu conféré une puissance qui reflète les talents de leur propriétaire. Ils épousent parfaitement ses mains et sont faits d'un cuir doux et souple, étonnamment résistant. Leur seul ornement est un petit « N » stylisé sur le dos de chaque main. Ils ont beaucoup servi, mais ont été entretenus avec un tel soin qu'ils ne présentent aucun signe d'usure. Si bien adaptés à Nephetel, ils ne peuvent être portés que par elle.
+@10091 = ~Nephetel reçut ces gants lors de son admission dans la guilde des voleurs. Bien qu'ils aient été dépourvus de magie à l'origine, semble-t-il, ses exploits leur ont peu à peu conféré une puissance qui reflète les talents de leur propriétaire. Ils épousent parfaitement ses mains et sont faits d'un cuir doux et souple, étonnamment résistant. Leur seul ornement est un petit " N " stylisé sur le dos de chaque main. Ils ont beaucoup servi, mais ont été entretenus avec un tel soin qu'ils ne présentent aucun signe d'usure. Si bien adaptés à Nephetel, ils ne peuvent être portés que par elle.
 
 PARAMÈTRES :
 
@@ -362,7 +362,7 @@ Poids : 0~
 @10113 = ~Les Fosses du désespoir : désespérés et sincères, par Baeloth Barrityl. Dicté, mais non relu.~
 @10114 = ~Critique d'Altharion Veldrith, érudit des arcanes et critique de tavernes à ses heures
 
-Baeloth Barrityl, le tristement célèbre ensorceleur drow qui s'est lui-même proclamé « l'Amuseur », a une fois encore déchaîné son talent littéraire sur un public qui ne se doutait de rien. Sa dernière œuvre, Les Fosses du désespoir : désespérés et sincères, mêle avec fougue le drame, le désespoir et, comme on pouvait s'y attendre, une dose franchement excessive d'autoglorification.
+Baeloth Barrityl, le tristement célèbre ensorceleur drow qui s'est lui-même proclamé " l'Amuseur ", a une fois encore déchaîné son talent littéraire sur un public qui ne se doutait de rien. Sa dernière œuvre, Les Fosses du désespoir : désespérés et sincères, mêle avec fougue le drame, le désespoir et, comme on pouvait s'y attendre, une dose franchement excessive d'autoglorification.
 
 Il arrive cependant que Barrityl se laisse emporter par son goût de l'outrance. La prose vire souvent au théâtre, ce qui n'a peut-être rien de surprenant chez un ensorceleur drow. De longs monologues interrompent parfois le récit et paraissent tout droit sortis de ses propres spectacles, au point qu'on ne sait plus si ce livre raconte une histoire ou sert simplement à faire la promotion de son auteur. On l'imagine aisément sur scène, multipliant les grands gestes en dictant chaque mot avec emphase. Si vous aimez davantage vous écouter parler, ou vous lire, en l'occurrence, que voir évoluer des personnages et une intrigue, vous y trouverez peut-être votre compte.
 
@@ -436,7 +436,7 @@ Capacités à charges :
 Poids : 2~
 
 @10160 = ~Anneau resplendissant~
-@10161 = ~Également surnommés « Porteurs d'espoir », ces anneaux sont offerts par de puissants magiciens de Thay à leurs agents envoyés dans des contrées lointaines. Les missions tortueuses et malfaisantes qu'ils accomplissent pour leur zulkir ont de quoi les abattre. Les zulkirs ont donc ordonné qu'ils portent ces anneaux lorsque le découragement les gagne. Qu'ils soient empêtrés dans les complots du Zhentarim ou qu'ils luttent pour leur vie en Aglarond contre les Rashemi en furie, ils y trouvent l'espoir et le courage de poursuivre, souvent jusqu'à la mort. Recevoir l'un de ces anneaux est de mauvais augure. On les acquiert fréquemment dans le sang, et les intentions de ceux qui les portent ne valent guère mieux.
+@10161 = ~Également surnommés " Porteurs d'espoir ", ces anneaux sont offerts par de puissants magiciens de Thay à leurs agents envoyés dans des contrées lointaines. Les missions tortueuses et malfaisantes qu'ils accomplissent pour leur zulkir ont de quoi les abattre. Les zulkirs ont donc ordonné qu'ils portent ces anneaux lorsque le découragement les gagne. Qu'ils soient empêtrés dans les complots du Zhentarim ou qu'ils luttent pour leur vie en Aglarond contre les Rashemi en furie, ils y trouvent l'espoir et le courage de poursuivre, souvent jusqu'à la mort. Recevoir l'un de ces anneaux est de mauvais augure. On les acquiert fréquemment dans le sang, et les intentions de ceux qui les portent ne valent guère mieux.
 
 Capacités d'équipement :
 – Classe d'armure : +1
@@ -526,7 +526,7 @@ Poids : 6~
 @10186 = ~Les charges de Neuf vies sont épuisées~
 
 @10190 = ~Touche-à-tout~
-@10191 = ~Le créateur et les anciens propriétaires de cette cape singulière sont presque entièrement tombés dans l'oubli, tout comme le vêtement lui-même. On ignore si le « touche-à-tout » fut l'un de ses porteurs ou s'il lui donna seulement son nom. Qui qu'il ait été, la cape lui a survécu de bien des années.
+@10191 = ~Le créateur et les anciens propriétaires de cette cape singulière sont presque entièrement tombés dans l'oubli, tout comme le vêtement lui-même. On ignore si le " touche-à-tout " fut l'un de ses porteurs ou s'il lui donna seulement son nom. Qui qu'il ait été, la cape lui a survécu de bien des années.
 
 La plus ancienne mention qui nous en soit parvenue figure dans le registre d'un marchand de Berdusk : la cape apparaît dans son inventaire, puis sa trace se perd. Par la suite, elle refit surface dans les récits d'un duelliste de Riatavin qui jurait qu'elle lui donnait les réflexes d'un chat, et d'une magicienne des montagnes du Couchant qui affirmait lui devoir sa survie dans les milieux les plus hostiles.
 
@@ -584,7 +584,7 @@ Poids : 1~
 @10220 = ~Anneau porte-clefs~
 @10221 = ~Cet anneau de laiton tout simple ne présente ni gravure ni propriété magique apparente. Lorsqu'on le retire du doigt, il se transforme en trousseau chargé de clefs d'or qui vibrent d'une puissance latente.
 
-L'artisan de ce chef-d'œuvre a dissimulé son identité avec autant de soin que sa création. Il disposait assurément d'un nombre invraisemblable de passe-partout, et il est fort probable que cet anneau ait servi à plus d'un cambriolage « impossible ».
+L'artisan de ce chef-d'œuvre a dissimulé son identité avec autant de soin que sa création. Il disposait assurément d'un nombre invraisemblable de passe-partout, et il est fort probable que cet anneau ait servi à plus d'un cambriolage " impossible ".
 
 Capacités d'équipement :
 – Détecte automatiquement les pièges une fois par round
@@ -742,12 +742,12 @@ Poids : 3~
 
 @11013 = ~Calice rempli de sang~
 @11014 = ~Calice de Durlag~
-@11015 = ~Du sang sombre et rance repose au fond de ce calice d'étain. Le bord est noirci de croûtes, là où d'autres semblent y avoir goûté. Ces mots sont profondément gravés dans l'étain : « Goûte à ma peur. »
+@11015 = ~Du sang sombre et rance repose au fond de ce calice d'étain. Le bord est noirci de croûtes, là où d'autres semblent y avoir goûté. Ces mots sont profondément gravés dans l'étain : " Goûte à ma peur. "
 
 PARAMÈTRES :
 
 Poids : 2~
-@11016 = ~Ces mots sont profondément gravés dans la paroi de ce calice maudit : « Goûte à ma peur. » On dit que le sang sombre qui repose dans ses profondeurs d'étain peut rendre la santé. Ce bienfait a toutefois un prix : quiconque le boit est maudit par la peur qu'il porte en lui. Cet effet dure jusqu'à 12 heures, ou jusqu'à sa dissipation.
+@11016 = ~Ces mots sont profondément gravés dans la paroi de ce calice maudit : " Goûte à ma peur. " On dit que le sang sombre qui repose dans ses profondeurs d'étain peut rendre la santé. Ce bienfait a toutefois un prix : quiconque le boit est maudit par la peur qu'il porte en lui. Cet effet dure jusqu'à 12 heures, ou jusqu'à sa dissipation.
 
 PARAMÈTRES :
 
@@ -767,7 +767,7 @@ PARAMÈTRES :
 
 Poids : 0~
 @11020 = ~Anneau de sorcellerie : Mémoire éternelle
-Il y a longtemps, un grand magicien d'Amn aurait défié les limites imposées par Mystra à la pratique de la magie. Selon la légende, il pouvait lancer des sorts sans avoir à les mémoriser. On finit par découvrir que ses pouvoirs provenaient de plusieurs anneaux magiques qu'il avait fabriqués pour lui-même. Sa prétendue « mémoire éternelle » était une supercherie, mais ses anneaux demeurent parmi les objets les plus recherchés des Royaumes.
+Il y a longtemps, un grand magicien d'Amn aurait défié les limites imposées par Mystra à la pratique de la magie. Selon la légende, il pouvait lancer des sorts sans avoir à les mémoriser. On finit par découvrir que ses pouvoirs provenaient de plusieurs anneaux magiques qu'il avait fabriqués pour lui-même. Sa prétendue " mémoire éternelle " était une supercherie, mais ses anneaux demeurent parmi les objets les plus recherchés des Royaumes.
 
 PARAMÈTRES :
 

@@ -17,7 +17,7 @@
 @16   = ~Qu'avez-vous à me proposer ?~
 @17   = ~Je n'ai pas besoin des conseils d'une inconnue. Je sais me débrouiller.~
 @18   = ~Avant de tremper votre lame dans le sang de l'arène, vous devriez participer aux combats d'entraînement. Ils vous donneront un... aperçu de la manière dont les choses se passent ici. Allez voir Stirv au chenil pour commencer.~
-@19   = ~... Méfiez-vous de ce cinglé. Cet homme est un sadique. Il soumet ses « chiots » à toutes sortes d'expériences, à coups de décoctions et de dressage cruel. Ils parviennent à agir ensemble sans s'entre-dévorer... Stirv se fera une joie de les lancer à vos trousses à la place.~
+@19   = ~... Méfiez-vous de ce cinglé. Cet homme est un sadique. Il soumet ses " chiots " à toutes sortes d'expériences, à coups de décoctions et de dressage cruel. Ils parviennent à agir ensemble sans s'entre-dévorer... Stirv se fera une joie de les lancer à vos trousses à la place.~
 @20   = ~Vous vous débrouillez sans aide, à ce que je vois. Écoutez tout de même mon conseil : allez trouver Stirv au chenil pour vous entraîner avant votre premier véritable combat.~
 @21   = ~La personne qui a sauvé la Porte de Baldur ? Hum... Et, pour Dennaton, l'attraction principale de son cirque à trois pistes. Vous avez l'air moins sauvage que je ne le pensais. Je comprends pourquoi vous l'intéressez.~
 @22   = ~Alors, puis-je faire quelque chose pour vous ?~
@@ -36,7 +36,7 @@
 @35   = ~Les nouveaux gladiateurs affrontent toujours la bande de guerre orque. La plupart des gens se moquent d'eux : à chaque défaite, on les ressuscite pour mieux les couvrir de ridicule. Souvenez-vous que, dans le jeu de Dennaton, c'est toujours nous les dindons de la farce.~
 @36   = ~Tiens, qui voilà ! Votre réputation vous précède... Essayez donc de rester trois pas derrière. Je ne voudrais pas que le sang sur vos mains tache ce joli tissu blanc.~
 @37   = ~Les gens d'ici m'ont dit du bien de vous. Faire rapidement impression, c'est bien, mais évitez de vous mettre les autres à dos. Les fortes personnalités ne manquent pas ici.~
-@38   = ~Je croyais que la « gloire » de la Porte de Baldur n'avait pas besoin de mes conseils.~
+@38   = ~Je croyais que la " gloire " de la Porte de Baldur n'avait pas besoin de mes conseils.~
 @39   = ~Je ne connais que votre nom. Pourriez-vous m'en dire un peu plus sur vous ?~
 @40   = ~Ha ! Je ne suis qu'une tieffeline serviable tout à fait ordinaire. Toute arène de gladiateurs en a besoin, vous savez. Je suis simplement là pour remplir les quotas de nos maîtres thayens.~
 @41   = ~Vous avez découvert la vérité la plus cruelle de cet endroit : n'importe qui peut être remplacé sans préavis. Même les plus fidèles restent des esclaves, d'une manière ou d'une autre.~
@@ -51,7 +51,7 @@
 @50   = ~Très bien, nous affronterons ces drows ensemble.~
 @51   = ~Sans mon aide, vous risquez d'y laisser bien plus, mais soit. Bonne chance là-dedans.~
 @52   = ~Ouille, vous marquez le premier point. Nous nous passerons de votre aide.~
-@53   = ~Comme vous voudrez, « gloire de la cité ».~
+@53   = ~Comme vous voudrez, " gloire de la cité ".~
 @54   = ~Je suis une danseuse dans les ombres, une lame dans les ténèbres. Laissez-moi vous montrer ce que je vaux au combat. Je vous promets que vous ne le regretterez pas.~
 @55   = ~Nous n'avons pas besoin d'un poids mort.~
 @56   = ~Nous nous en sortirons. Les drows ne me font pas peur.~
@@ -175,7 +175,7 @@
 @176  = ~Bien sûr, brave Valygar. Par la volonté d'Arvoreen, nous détruirons ce mal. Notre lame et notre vertu rendront justice. En avant, mon ami !~
 @177  = ~Je ne tire aucun plaisir de la défaite de cette tribu. Les Magiciens rouges ont perverti sa nature pour servir leurs desseins.~
 @178  = ~Ce sont des sauvages qui vénèrent des dieux primitifs ne se souciant nullement d'eux. Ils méritent assurément la justice que nous leur apportons.~
-@179  = ~N'y a-t-il plus la moindre compassion dans vos vieux os, « sire » Keldorn ?~
+@179  = ~N'y a-t-il plus la moindre compassion dans vos vieux os, " sire " Keldorn ?~
 @180  = ~Pour vaincre le mal, nous devons surmonter les faiblesses de la compassion. Même les Ménestrels le savent.~
 @181  = ~Vous savez, je me suis déjà transformée EN ombre des roches ! C'était extraordinaire. Avec tous ces yeux, on voyait partout, et on pouvait creuser ! Creuser, creuser, creuser. C'était aussi agréable que de manger du chocolat. Si satisfaisant. Oh, voilà que j'ai faim.~
 @182  = ~Quand n'avez-vous pas faim ?~
@@ -272,14 +272,14 @@ Nephetel ne tarde pas à vous rappeler qu'elle poursuit sa propre mission : un e
 @271  = ~Ah, les responsables de votre capture, sans doute. Une bande... pleine de vie, mais j'ai heureusement eu peu de rapports avec eux. Je n'en sais probablement pas beaucoup plus que vous, mais je peux essayer de vous renseigner.~
 @272  = ~L'Ailée les dirige. C'est une ange matérialiste. Allez comprendre. J'ignore ce qui l'a fait tomber de si haut, du Mont Céleste ou d'où qu'elle vienne, et je n'ai franchement pas envie de le lui demander.~
 @273  = ~À ma connaissance, ce sont tous des lanceurs de sorts. Même l'énorme golem qui se promène avec eux serait un magicien exceptionnel. J'ignore si c'est vrai, mais la rumeur court.~
-@274  = ~Ce sont des esclaves, comme vous et moi. Tartle se prend pour le bras droit de Dennaton. En réalité, il lui sert simplement d'intermédiaire à peu près compétent, pour éviter aux gens « importants » de salir leurs habits en parlant eux-mêmes aux combattants. Ses gardes du corps le détestent, autant que je puisse en juger.~
+@274  = ~Ce sont des esclaves, comme vous et moi. Tartle se prend pour le bras droit de Dennaton. En réalité, il lui sert simplement d'intermédiaire à peu près compétent, pour éviter aux gens " importants " de salir leurs habits en parlant eux-mêmes aux combattants. Ses gardes du corps le détestent, autant que je puisse en juger.~
 @275  = ~Brodle est difficile à cerner, mais je le vois assez rarement. Il se donne moins d'importance, même s'il est un peu déprimant de lui parler. Dans cette affreuse fosse où la mort nous guette, le moins qu'on puisse faire pour les autres, c'est encore de leur offrir une compagnie agréable.~
 @276  = ~Le grand Magicien rouge en personne. Il est... Disons qu'il illustre à merveille le genre de salauds impatients, insupportables et malveillants que produit la haute société thayenne.~
 @277  = ~À ma connaissance, c'est lui qui mène la danse ici. Mais à Thay, aussi haut placé qu'on soit, il y a toujours quelqu'un pour surveiller chacun de vos gestes.~
 @278  = ~Elle ne fait pas dans la demi-mesure. Une adepte de Hoar, dieu de la vengeance et du châtiment, comme elle aime à le rappeler. J'ai peur que, si nous nous rencontrions dehors, elle tente de nous abattre tous deux sans hésiter. Avec un nom pareil, l'ironie est presque insoutenable.~
 @279  = ~Je l'ai toutefois vue combattre. On ne peut nier qu'elle est une puissante guerrière.~
-@280  = ~Argh, faut-il vraiment en parler ? Je lui ai adressé la parole une fois. Une seule ! Il n'arrêtait pas de vanter ses exploits, tout en parlant de mes « cornes de chèvre » et de ma « queue de démon », comme s'il cherchait à me provoquer.~
-@281  = ~La « Menace antique » ? Il est gentil, ce qui le distingue de la plupart des gens d'ici. J'aimerais discuter sérieusement de certains sujets avec lui, mais l'esprit du vieil homme s'égare comme un rothé privé de son troupeau.~
+@280  = ~Argh, faut-il vraiment en parler ? Je lui ai adressé la parole une fois. Une seule ! Il n'arrêtait pas de vanter ses exploits, tout en parlant de mes " cornes de chèvre " et de ma " queue de démon ", comme s'il cherchait à me provoquer.~
+@281  = ~La " Menace antique " ? Il est gentil, ce qui le distingue de la plupart des gens d'ici. J'aimerais discuter sérieusement de certains sujets avec lui, mais l'esprit du vieil homme s'égare comme un rothé privé de son troupeau.~
 @282  = ~Il est généralement insupportable. Mais si vous savez lui tenir tête et lui rendre ses piques, la conversation devient plutôt agréable. Au fond, il est simplement ravi que quelqu'un s'intéresse aux sujets qu'il connaît... Autrement dit, à presque tout.~
 @283  = ~Tout messager au service de cet endroit serait forcément un serviteur écervelé ou un agent forcé d'obéir. Je sais de source sûre que la menace de la mort, voire pire, pèse même sur les plus fidèles acolytes de Dennaton.~
 @284  = ~Vous êtes passée maîtresse dans l'art de ne pas répondre, n'est-ce pas ?~
@@ -287,7 +287,7 @@ Nephetel ne tarde pas à vous rappeler qu'elle poursuit sa propre mission : un e
 @286  = ~Je sais reconnaître une roublarde de talent. Il est logique que Dennaton cherche à exploiter vos capacités au mieux.~
 @287  = ~Une raison de plus de raser cet endroit.~
 @288  = ~Si vous posiez des questions utiles, je pourrais peut-être vous donner des réponses du même ordre.~
-@289  = ~Aucune de ces appellations ne me plaît vraiment. Avec votre permission, je préfère rester une « tieffeline serviable ».~
+@289  = ~Aucune de ces appellations ne me plaît vraiment. Avec votre permission, je préfère rester une " tieffeline serviable ".~
 @290  = ~De talent, et *serviable*. Mais je doute que Dennaton sache profiter de ma présence, même avec un mode d'emploi. Quoi qu'il en soit, je ne suis pas ici pour recevoir des compliments, à mon grand désespoir.~
 @291  = ~Avec un peu de chance, Dennaton s'en chargera lui-même. Essayez simplement de ne pas mourir d'ici là.~
 @292  = ~Une mort atroce pour un ennemi qui la méritait. À la vue de ces araignées, je suis presque contente de ne pas avoir été à vos côtés. Une chose est certaine : vous savez vous défendre.~
@@ -297,7 +297,7 @@ Nephetel ne tarde pas à vous rappeler qu'elle poursuit sa propre mission : un e
 @296  = ~Croyez-moi, cela n'avait rien de simple. Vous imaginez le supplice que c'était de faire semblant d'APPRÉCIER un Magicien rouge ? Rien que d'y penser, j'ai besoin d'une douzaine de bains.~
 @297  = ~J'ai étudié l'anneau. Je me débrouille assez bien avec ce genre d'objets enchantés. Il semble ne lui rester qu'une utilisation. Ce salaud a dû négliger de le faire recharger. Il est très probable que transporter plusieurs personnes hors d'ici achève de l'épuiser.~
 @298  = ~Je saisirai la moindre chance. Donnez-le-moi, et partons.~
-@299  = ~Il « devrait » nous ramener ? Cela n'inspire guère confiance.~
+@299  = ~Il " devrait " nous ramener ? Cela n'inspire guère confiance.~
 @300  = ~Vous le donner ? C'est moi qui vais l'utiliser, merci bien. Et ne croyez pas être débarrassé de Dennaton et de ses sbires après cela. Ils lâchent rarement prise quand les choses ne vont pas dans leur sens. Maintenant, levons le camp !~
 @301  = ~Avez-vous un autre choix ? Rester ici jusqu'à ce que Dennaton décide que vous ne l'amusez plus ? À moins que vous ne préfériez mourir dans l'arène face à un ennemi invincible.~
 @302  = ~Comme vous voudrez. Je vous attendrai ici en préparant le départ. Quand vous serez prêt... vous saurez où me trouver.~
@@ -324,7 +324,7 @@ Nephetel ne tarde pas à vous rappeler qu'elle poursuit sa propre mission : un e
 @323  = ~Soyez prudent, <CHARNAME>, mais ne la repoussez pas sans réfléchir. Face à ces drows, une lame de plus peut faire la différence entre la victoire et la mort.~
 @324  = ~Une offre séduisante, mon corbeau ! Notre scène n'en sera que plus riche, avec une compagnie aussi dangereuse.~
 @325  = ~Si cela permet de m'éviter les araignées, j'accepte l'aide avec GRAND plaisir.~
-@326  = ~Mon oncle Gerhardt disait : « Offrez le premier navet, vous gagnerez un client pour la vie. » Il a cessé de le dire après s'être retrouvé avec le vieux Berrik sur les bras. Celui-là est resté 70 ans, obstiné comme de la moisissure. Le vieux Gerhardt a prétendu être triste à sa mort, mais nous savions tous qu'il mentait.~
+@326  = ~Mon oncle Gerhardt disait : " Offrez le premier navet, vous gagnerez un client pour la vie. " Il a cessé de le dire après s'être retrouvé avec le vieux Berrik sur les bras. Celui-là est resté 70 ans, obstiné comme de la moisissure. Le vieux Gerhardt a prétendu être triste à sa mort, mais nous savions tous qu'il mentait.~
 @327  = ~Au fond, nous sommes tous des bêtes de meute. Nous ferions bien d'accepter son aide.~
 @328  = ~Oh ? Voilà qui m'intrigue au plus haut point. Ne nous attardons pas trop, voulez-vous ?~
 @329  = ~J'adore me faufiler en douce. Cela me rappelle une époque plus simple.~
@@ -414,7 +414,7 @@ Nephetel ne tarde pas à vous rappeler qu'elle poursuit sa propre mission : un e
 @413  = ~Dites-nous d'abord qui vous êtes et ce que vous faites.~
 @414  = ~Cela ne vous regarde pas. Donnez-nous ce que vous tenez, et il n'y aura pas d'ennuis.~
 @415  = ~Parler ? Je... je... Argh. Tu viens de nous appeler des aventuriers ? Plonger dans ce trou infernal n'a rien d'une aventure. Qu'est-ce que je donnerais pour... pour...~
-@416  = ~Rien me prendre ? Je... Pourquoi serions-nous « de passage », Brevrick ? Ça ne pouvait pas marcher. La prochaine fois, laisse-moi... laisse-moi...~
+@416  = ~Rien me prendre ? Je... Pourquoi serions-nous " de passage ", Brevrick ? Ça ne pouvait pas marcher. La prochaine fois, laisse-moi... laisse-moi...~
 @417  = ~Moi ? Je suis... je suis... le meilleur cambrioleur de ce côté-ci des Contrées du Mitan ! Crois-moi, si quelqu'un peut te faire entrer là-dedans, c'est... c'est...~
 @418  = ~Non, c'est à moi ! C'est... Tu peux insister autant que tu veux, Vilo, tu ne toucheras pas au fragment ! Il est là pour... pour...~
 @419  = ~Argh ! Sortez de ma tête. DEHORS ! Éloignez-vous de moi !~
